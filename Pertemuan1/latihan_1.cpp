@@ -1,3 +1,16 @@
+/*
+    Buat Program Hitung luas permukaan serta isi bola yang diketahui jari-jarinya
+    
+    RUMUS
+    L = 4 π R
+    V = ( 4 π R^3 ) / 3
+
+    Dimana :
+    L = Luas permukaan bola
+    V = Volume bola
+    R = Jari-jari bola
+    π = 3.14
+*/
 #include <iostream>
 #define phi 3.14
 
