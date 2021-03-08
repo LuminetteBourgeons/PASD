@@ -9,8 +9,6 @@
  hanya nilai TUGAS saja yang boleh bernilai 0.
 */
 
-//ini versi sebelum diubah
-
 #include <iostream>
 
 using namespace std;
@@ -41,6 +39,34 @@ int main()
     {
         hitung();
     }
+ 
+     // Setelah diubah,
+/*
+ if ((uts == 0) || (uas == 0) || (tugas == 0))
+ {
+     cout<<"Nilai Anda E!"<<endl;
+ }
+ else
+ {
+     hitung();
+ }
+ */
+    // Akan menjadi,
+/*
+ if (tugas == 0)
+ {
+     cout<<"Nilai Anda E!"<<endl;
+ }
+ else if ((uas == 0) || (uts == 0))
+ {
+     cout<<"Harap masukkan nilai dengan benar!"<<endl;
+ }
+ else
+ {
+     hitung();
+ }
+ */
+
 }
 
 float hitung()
