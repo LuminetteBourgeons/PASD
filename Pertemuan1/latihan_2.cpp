@@ -1,5 +1,6 @@
 /*
-  Let’s Explore Program menghitung:
+  Let’s Explore! Buatlah program menghitung:
+  
     Luas Persegi
     Keliling Persegi
     Luas + Keliling Persegi
