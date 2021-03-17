@@ -257,7 +257,7 @@ int main()
     }
     else if (wahana=='4')
     {
-        cout<<"Kapan kamu mau mengunjungi wahana FunAdventure?";
+        cout<<"Kapan kamu mau mengunjungi wahana FunAdventure?"<<endl;
         cout<<" 1. Weekday"<<endl;
         cout<<" 2. Weekend"<<endl;
         cout<<" 3. Holiday"<<endl;
