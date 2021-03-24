@@ -27,7 +27,7 @@ int main ()
         {
             genap++;
         }
-        else if (N%2==1)
+        else //if (N%2==1)
         {
             ganjil++;
         }
