@@ -3,6 +3,7 @@ Buatlah program untuk membaca sekumpulan bilangan bulat (integer) yang diakhiri 
 Bilangan 0 adalah bilangan genap, tetapi tidak positif atau pun negatif
 */
 
+//WHILE version
 
 #include <iostream>
 
