@@ -1,2 +1,2 @@
 # PASD
-Tugas-tugas Praktikum Algoritma dan Struktur Data
+Kumpulan Tugas-tugas Praktikum Algoritma dan Struktur Data
